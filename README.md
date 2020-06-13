@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200" height="100%" src="../assets/special/fist.png" alt="Black List">
+	<img width="200" height="100%" src="/assets/special/fist.png" alt="Black List">
 	<br>
 	<p>
 		<p>
