@@ -3,7 +3,7 @@
 # BLACK LIST
 
 <div align="center">
-	<img width="200" height="100%" src="/ricoledan/blacklist/assets/special/green-book.jpg" alt="Black List">
+	<img width="200" height="100%" src="../assets/special/green-book.jpg" alt="Black List">
 	<br>
 </div>
 
