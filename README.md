@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="200" height="100%" src="assets/special/fist.png" alt="Awesome">
+	<img width="200" height="100%" src="/ricoledan/blacklist/assets/special/fist.png" alt="Black List">
 	<br>
 	<p>
 		<p>
@@ -11,9 +11,9 @@
 </div>
 <br>
 <p align="center">
-	<a href="why.md">Why?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contribution-guide.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="/ricoledan/blacklist/why.md">Why?</a>&nbsp;&nbsp;&nbsp;
+	<a href="/ricoledan/blacklist/contribution-guide.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="/ricoledan/blacklist/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
