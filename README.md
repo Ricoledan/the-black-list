@@ -30,8 +30,8 @@
   - [Social Justice](#social-justice)
   - [Health](#health)
   - [Technology](#technology)
-  - [People](#[people])
 - [Politics](#politics)
+- [People](#people)
 
 ## Documentaries
 
@@ -91,8 +91,10 @@
 
 ### Technology
 
+## Politics
+
 #### People
 
-[Baratunde Thurston](https://www.baratunde.com/#baratunde)
+[Baratunde Thurston](https://www.baratunde.com/#baratunde) - American writer, comedian, and commentator.
 
-## Politics
+[Jelani Cobb](https://twitter.com/jelani9?s=20) - American writer, author and educator.
