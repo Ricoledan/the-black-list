@@ -53,6 +53,10 @@
 
 - [Get Out](https://www.imdb.com/title/tt5052448/) - a 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
 
+## TV Shows
+
+- [insecure](https://www.hbo.com/insecure) - Follows the awkward experiences and racy tribulations of a modern-day African-American woman.
+
 ## Podcasts
 
 - [The Breakfast Club](https://podcasts.apple.com/us/podcast/the-breakfast-club/id1232428553) - The World's Most Dangerous Morning Show, The Breakfast Club, With DJ Envy, Angela Yee And Charlamagne Tha God!
@@ -64,6 +68,8 @@
 ### Subreddits
 
 - [Black Twitter](https://www.reddit.com/r/BlackPeopleTwitter/) - Black culture has a unique way of examining every day life and we are here to showcase it. That being said this sub is intended for exceptionally hilarious and insightful social media posts made by black people and we welcome all people who want to laugh with us to enjoy and contribute.
+
+- [Blackfellas](https://www.reddit.com/r/Blackfellas/) - A place for men of all shades.
 
 - [Black Ladies](https://www.reddit.com/r/blackladies/) - A safe space for black women.
 
