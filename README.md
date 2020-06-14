@@ -23,6 +23,7 @@
   - [non-fiction](#non-fiction)
 - [Dictionary](#dictionary)
 - [Movies](#movies)
+- [TV Shows](#tv-shows)
 - [Podcasts](#podcasts)
 - [Social Media](#social-media)
 - [Organizations](#organizations)
