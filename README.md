@@ -30,6 +30,7 @@
   - [Social Justice](#social-justice)
   - [Health](#health)
   - [Technology](#technology)
+  - [People](#[people])
 - [Politics](#politics)
 
 ## Documentaries
@@ -44,11 +45,13 @@
 
 ### Non-Fiction
 
+- [Between the World and Me By Ta-Nehisi Coates](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - Written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.
+
 - [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - a psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
 ## Dictionaries
 
-- [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World."
+- [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World".
 
 ## Movies
 
@@ -78,8 +81,18 @@
 
 ### Social Justice
 
+[Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. By combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
+
+[Dream Defenders](https://dreamdefenders.org/) - an American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
+
+[NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
+
 ### Health
 
 ### Technology
+
+#### People
+
+[Baratunde Thurston](https://www.baratunde.com/#baratunde)
 
 ## Politics
