@@ -93,7 +93,7 @@
 
 ## Politics
 
-### People
+## People
 
 [Baratunde Thurston](https://www.baratunde.com/#baratunde) - American writer, comedian, and commentator.
 
