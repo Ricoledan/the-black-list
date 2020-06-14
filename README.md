@@ -21,6 +21,8 @@
 - [Books](#books)
   - [fiction](#fiction)
   - [non-fiction](#non-fiction)
+- [Dictionary](#dictionary)
+- [Movies](#movies)
 - [Podcasts](#podcasts)
 - [Social Media](#social-media)
 - [Organizations](#organizations)
@@ -43,6 +45,14 @@
 
 - [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - a psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
+## Dictionaries
+
+- [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World."
+
+## Movies
+
+- [Get Out](https://www.imdb.com/title/tt5052448/) - a 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
+
 ## Podcasts
 
 - [The Breakfast Club](https://podcasts.apple.com/us/podcast/the-breakfast-club/id1232428553) - The World's Most Dangerous Morning Show, The Breakfast Club, With DJ Envy, Angela Yee And Charlamagne Tha God!
@@ -51,9 +61,9 @@
 
 ## Social Media
 
-### Reddit
+### Subreddits
 
-- [Black Twitter](https://www.reddit.com/r/BlackPeopleTwitter/) - Screenshots of Black people being hilarious or insightful on social media, it doesn't need to just be twitter but obviously that is best.
+- [Black Twitter](https://www.reddit.com/r/BlackPeopleTwitter/) - Black culture has a unique way of examining every day life and we are here to showcase it. That being said this sub is intended for exceptionally hilarious and insightful social media posts made by black people and we welcome all people who want to laugh with us to enjoy and contribute.
 
 - [Black Ladies](https://www.reddit.com/r/blackladies/) - A safe space for black women.
 
