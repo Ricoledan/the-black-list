@@ -37,6 +37,8 @@
 
 - [13th](https://www.netflix.com/title/80091741) - Explores the intersection of race, justice, and mass incarceration in the United States.
 
+- [I Am Not Your Negro](http://www.iamnotyournegrofilm.com/) - Explores the history of racism in the United States through Baldwin's reminiscences of civil rights leaders Medgar Evers, Malcolm X, and Martin Luther King Jr., as well as his personal observations of American history.
+
 ## Books
 
 ### Fiction
@@ -87,11 +89,11 @@
 
 [NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
 
-### Health
+<!-- ### Health
 
 ### Technology
 
-## Politics
+## Politics -->
 
 ## People
 
