@@ -55,6 +55,8 @@
 
 - [The New Jim Crow: Mass Incarceration In the age of colorblindness By Michelle Alexander](https://lugty.com/crow/?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxVYNjqbJbVT3hOEKMJUduWoj6ugeF4qHpF0szu8D9dDbxBTPa0vTmgaAnV4EALw_wcB) - Discusses race-related issues specific to African-American males and mass incarceration in the United States.
 
+- [Disintegration: The Splintering of Black America By Eugene Robinson](https://www.penguinrandomhouse.com/books/156131/disintegration-by-eugene-robinson/) - Explains how years of desegregation and affirmative action have led to the revelation of four distinct African American groups who reflect unique political views and circumstances, in a report that also illuminates crucial modern debates on race and class.
+
 ## Dictionaries
 
 - [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World".
