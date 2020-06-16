@@ -53,6 +53,8 @@
 
 - [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - a psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
+- [The New Jim Crow: Mass Incarceration In the age of colorblindness By Michelle Alexander](https://lugty.com/crow/?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxVYNjqbJbVT3hOEKMJUduWoj6ugeF4qHpF0szu8D9dDbxBTPa0vTmgaAnV4EALw_wcB) - Discusses race-related issues specific to African-American males and mass incarceration in the United States.
+
 ## Dictionaries
 
 - [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World".
