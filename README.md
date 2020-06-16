@@ -24,6 +24,7 @@
 - [Dictionary](#dictionary)
 - [Movies](#movies)
 - [TV Shows](#tv-shows)
+- [Video Essays](#video-essays)
 - [Podcasts](#podcasts)
 - [Social Media](#social-media)
 - [Organizations](#organizations)
@@ -51,7 +52,7 @@
 
 - [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present By Harriet A. Washington](https://www.amazon.com/Medical-Apartheid-Experimentation-Americans-Colonial-ebook-dp-B0010SEOYE/dp/B0010SEOYE/ref=mt_other?_encoding=UTF8&me=&qid=) - From the era of slavery to the present day, this book presents the first full account of black Americans' mistreatment as unwitting subjects of medical experimentation.
 
-- [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - a psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
+- [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - A psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
 - [The New Jim Crow: Mass Incarceration In the age of colorblindness By Michelle Alexander](https://lugty.com/crow/?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxVYNjqbJbVT3hOEKMJUduWoj6ugeF4qHpF0szu8D9dDbxBTPa0vTmgaAnV4EALw_wcB) - Discusses race-related issues specific to African-American males and mass incarceration in the United States.
 
@@ -59,21 +60,31 @@
 
 ## Dictionaries
 
-- [Urban Dictionary](https://www.urbandictionary.com/) - a crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World".
+- [Urban Dictionary](https://www.urbandictionary.com/) - A crowdsourced online dictionary for slang words and phrases, operating under the motto "Define Your World".
 
 ## Movies
 
-- [Get Out](https://www.imdb.com/title/tt5052448/) - a 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
+- [Get Out](https://www.imdb.com/title/tt5052448/) - A 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
 
 ## TV Shows
 
 - [insecure](https://www.hbo.com/insecure) - Follows the awkward experiences and racy tribulations of a modern-day African-American woman.
 
+## Video Essays
+
+- [ELEMENT: How Kendrick Lamar Collaborates](https://www.youtube.com/watch?v=kqGKMaCAao4) - An insightful look into Kendrick Lamar's music video ELEMENT from his fourth studio album "Damn".
+
+- [Jay Z "4:44" Album Review | Noisy Images](https://www.youtube.com/watch?v=2izTVrfdIGw) - A deep dive into Jay Z's 13th studio album, "4:44".
+
+- [Kanye West: The Making of "The Life of Pablo" | Part 1](https://www.youtube.com/watch?v=2izTVrfdIGw) - Follow along as we look into the creation of "The Life of Pablo." Kanye's 7th solo album is an ambitious look into the duality of the artist behind it.
+
+- [Kanye West: The Making of My Beautiful Dark Twisted Fantasy](https://www.youtube.com/watch?v=6t0nipO6Rcw) - The journey of Kanye West as he pursued a journey of self-exile. In his time away, he gathered the inspiration to create his magnum opus. Holed up in Hawaii with his team, they set out to make the greatest albums of their time.
+
 ## Podcasts
 
 - [The Breakfast Club](https://podcasts.apple.com/us/podcast/the-breakfast-club/id1232428553) - The World's Most Dangerous Morning Show, The Breakfast Club, With DJ Envy, Angela Yee And Charlamagne Tha God!
 
-- [Small Doses with Amanda Seales](https://podcasts.apple.com/us/podcast/small-doses-with-amanda-seales/id1333316223) - a weekly podcast that brings you potent truths for everyday use.
+- [Small Doses with Amanda Seales](https://podcasts.apple.com/us/podcast/small-doses-with-amanda-seales/id1333316223) - A weekly podcast that brings you potent truths for everyday use.
 
 ## Social Media
 
@@ -91,7 +102,7 @@
 
 [Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. By combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
 
-[Dream Defenders](https://dreamdefenders.org/) - an American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
+[Dream Defenders](https://dreamdefenders.org/) - An American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
 
 [NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
 
