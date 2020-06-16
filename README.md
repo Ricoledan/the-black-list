@@ -49,6 +49,8 @@
 
 - [Between the World and Me By Ta-Nehisi Coates](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - Written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.
 
+- [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present By Harriet A. Washington](https://www.amazon.com/Medical-Apartheid-Experimentation-Americans-Colonial-ebook-dp-B0010SEOYE/dp/B0010SEOYE/ref=mt_other?_encoding=UTF8&me=&qid=) - From the era of slavery to the present day, this book presents the first full account of black Americans' mistreatment as unwitting subjects of medical experimentation.
+
 - [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - a psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
 ## Dictionaries
