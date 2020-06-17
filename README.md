@@ -17,6 +17,7 @@
 
 ## Contents
 
+- [Articles](#articles)
 - [Documentaries](#documentaries)
 - [Books](#books)
   - [fiction](#fiction)
@@ -33,6 +34,14 @@
   - [Technology](#technology)
 - [Politics](#politics)
 - [People](#people)
+  - [Technology](#technology)
+  - [Journalism](#journalism)
+
+## Articles
+
+- [The Case for Reparations by Ta-Nehisi Coates](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) - Ta-Nehisi Coates traces how slavery, segregation, and discriminatory racial policies underpin ongoing and systemic economic and racial disparities.
+
+- [The First White President by Ta-Nehisi Coates](https://www.theatlantic.com/magazine/archive/2017/10/the-first-white-president-ta-nehisi-coates/537909/) - Explores how Trump, during his presidency, employed the notion of whiteness and white supremacy to pick apart the legacy of the nation's first Black president, Barack Obama.
 
 ## Documentaries
 
@@ -44,23 +53,23 @@
 
 ### Fiction
 
-- [Invisible Man By Ralph Ellison](https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764/ref=sr_1_1?dchild=1&keywords=Invisible+Man&qid=1592101949&s=books&sr=1-1) - The story of a nameless young, college-educated black man struggling to survive and succeed in a racially divided society that refuses to see him as a human being, told from a first-person narrative.
+- [Invisible Man by Ralph Ellison](https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764/ref=sr_1_1?dchild=1&keywords=Invisible+Man&qid=1592101949&s=books&sr=1-1) - The story of a nameless young, college-educated black man struggling to survive and succeed in a racially divided society that refuses to see him as a human being, told from a first-person narrative.
 
 ### Non-Fiction
 
-- [Heavy By Kiese Laymon](https://www.kieselaymon.com/heavy) - In this powerful and provocative memoir, genre-bending essayist and novelist Kiese Laymon explores what the weight of a lifetime of secrets, lies, and deception does to a black body, a black family, and a nation teetering on the brink of moral collapse.
+- [Heavy by Kiese Laymon](https://www.kieselaymon.com/heavy) - In this powerful and provocative memoir, genre-bending essayist and novelist Kiese Laymon explores what the weight of a lifetime of secrets, lies, and deception does to a black body, a black family, and a nation teetering on the brink of moral collapse.
 
-- [Between the World and Me By Ta-Nehisi Coates](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - Written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.
+- [Between the World and Me by Ta-Nehisi Coates](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - Written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.
 
-- [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present By Harriet A. Washington](https://www.amazon.com/Medical-Apartheid-Experimentation-Americans-Colonial-ebook-dp-B0010SEOYE/dp/B0010SEOYE/ref=mt_other?_encoding=UTF8&me=&qid=) - From the era of slavery to the present day, this book presents the first full account of black Americans' mistreatment as unwitting subjects of medical experimentation.
+- [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present by Harriet A. Washington](https://www.amazon.com/Medical-Apartheid-Experimentation-Americans-Colonial-ebook-dp-B0010SEOYE/dp/B0010SEOYE/ref=mt_other?_encoding=UTF8&me=&qid=) - From the era of slavery to the present day, this book presents the first full account of black Americans' mistreatment as unwitting subjects of medical experimentation.
 
-- [From #BlackLivesMatter to Black Liberation By Keeanga-Yamahtta Taylor](https://www.audible.com/pd/From-BlackLivesMatter-to-Black-Liberation-Audiobook/B01FREHDFS?qid=1592354443&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ZSX7SVJ16TRP32ZYMJ86) - In this stirring and insightful analysis, activist and scholar Keeanga-Yamahtta Taylor surveys the historical and contemporary ravages of racism and the persistence of structural inequality such as mass incarceration and black unemployment. In this context she argues that this new struggle against police violence holds the potential to reignite a broader push for black liberation.
+- [From #BlackLivesMatter to Black Liberation by Keeanga-Yamahtta Taylor](https://www.audible.com/pd/From-BlackLivesMatter-to-Black-Liberation-Audiobook/B01FREHDFS?qid=1592354443&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ZSX7SVJ16TRP32ZYMJ86) - In this stirring and insightful analysis, activist and scholar Keeanga-Yamahtta Taylor surveys the historical and contemporary ravages of racism and the persistence of structural inequality such as mass incarceration and black unemployment. In this context she argues that this new struggle against police violence holds the potential to reignite a broader push for black liberation.
 
-- [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - A psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
+- [Les Damnés de la Terre (The Wretched of the Earth) by Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - A psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
-- [The New Jim Crow: Mass Incarceration In the age of colorblindness By Michelle Alexander](https://lugty.com/crow/?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxVYNjqbJbVT3hOEKMJUduWoj6ugeF4qHpF0szu8D9dDbxBTPa0vTmgaAnV4EALw_wcB) - Discusses race-related issues specific to African-American males and mass incarceration in the United States.
+- [The New Jim Crow: Mass Incarceration In the age of colorblindness by Michelle Alexander](https://lugty.com/crow/?gclid=Cj0KCQjwuJz3BRDTARIsAMg-HxVYNjqbJbVT3hOEKMJUduWoj6ugeF4qHpF0szu8D9dDbxBTPa0vTmgaAnV4EALw_wcB) - Discusses race-related issues specific to African-American males and mass incarceration in the United States.
 
-- [Disintegration: The Splintering of Black America By Eugene Robinson](https://www.penguinrandomhouse.com/books/156131/disintegration-by-eugene-robinson/) - Explains how years of desegregation and affirmative action have led to the revelation of four distinct African American groups who reflect unique political views and circumstances, in a report that also illuminates crucial modern debates on race and class.
+- [Disintegration: The Splintering of Black America by Eugene Robinson](https://www.penguinrandomhouse.com/books/156131/disintegration-by-eugene-robinson/) - Explains how years of desegregation and affirmative action have led to the revelation of four distinct African American groups who reflect unique political views and circumstances, in a report that also illuminates crucial modern debates on race and class.
 
 ## Dictionaries
 
@@ -104,20 +113,36 @@
 
 ### Social Justice
 
-[Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. By combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
+[Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. by combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
 
 [Dream Defenders](https://dreamdefenders.org/) - An American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
 
 [NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
 
-<!-- ### Health
+### Health
 
 ### Technology
 
-## Politics -->
+[blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
+
+## Politics
+
+## Tools
+
+### Fact Checking
+
+[OpenSecrets](https://www.opensecrets.org/) - Allows users to track federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration. Users can also search by ZIP codes to learn how their neighbors are allocating their political contributions.
+
+[FactCheck](https://www.factcheck.org/) - A nonprofit website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics".
+
+[Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
 
 ## People
 
+### Technology
+
 [Baratunde Thurston](https://www.baratunde.com/#baratunde) - American writer, comedian, and commentator.
+
+### Journalism
 
 [Jelani Cobb](https://twitter.com/jelani9?s=20) - American writer, author and educator.
