@@ -48,9 +48,13 @@
 
 ### Non-Fiction
 
+- [Heavy By Kiese Laymon](https://www.kieselaymon.com/heavy) - In this powerful and provocative memoir, genre-bending essayist and novelist Kiese Laymon explores what the weight of a lifetime of secrets, lies, and deception does to a black body, a black family, and a nation teetering on the brink of moral collapse.
+
 - [Between the World and Me By Ta-Nehisi Coates](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - Written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States.
 
 - [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present By Harriet A. Washington](https://www.amazon.com/Medical-Apartheid-Experimentation-Americans-Colonial-ebook-dp-B0010SEOYE/dp/B0010SEOYE/ref=mt_other?_encoding=UTF8&me=&qid=) - From the era of slavery to the present day, this book presents the first full account of black Americans' mistreatment as unwitting subjects of medical experimentation.
+
+- [From #BlackLivesMatter to Black Liberation By Keeanga-Yamahtta Taylor](https://www.audible.com/pd/From-BlackLivesMatter-to-Black-Liberation-Audiobook/B01FREHDFS?qid=1592354443&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ZSX7SVJ16TRP32ZYMJ86) - In this stirring and insightful analysis, activist and scholar Keeanga-Yamahtta Taylor surveys the historical and contemporary ravages of racism and the persistence of structural inequality such as mass incarceration and black unemployment. In this context she argues that this new struggle against police violence holds the potential to reignite a broader push for black liberation.
 
 - [Les Damnés de la Terre (The Wretched of the Earth) By Frantz Fanon](https://www.amazon.com/Wretched-Earth-Frantz-Fanon-ebook/dp/B001C32HE6) - A psychiatric and psychologic analysis of the dehumanizing effects of colonization upon the individual and the nation, and discusses the broader social, cultural, and political implications inherent to establishing a social movement for decolonization.
 
