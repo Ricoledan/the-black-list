@@ -33,6 +33,8 @@
   - [Health](#health)
   - [Technology](#technology)
 - [Politics](#politics)
+  - [Tools](#tools)
+    - [fact-checking](#fact-checking)
 - [People](#people)
   - [Technology](#technology)
   - [Journalism](#journalism)
@@ -127,9 +129,9 @@
 
 ## Politics
 
-## Tools
+### Tools
 
-### Fact Checking
+#### Fact Checking
 
 [OpenSecrets](https://www.opensecrets.org/) - Allows users to track federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration. Users can also search by ZIP codes to learn how their neighbors are allocating their political contributions.
 
