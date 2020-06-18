@@ -136,7 +136,7 @@
 
 ### News
 
-#### Bias
+#### Bias and Reliability
 
 <div align="center">
 	<img width="100%" src="/assets/special/MediaBiasChartLicensed.jpg" alt="Media Bias Chart">
