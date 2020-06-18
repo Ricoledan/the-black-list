@@ -20,8 +20,8 @@
 - [Articles](#articles)
 - [Documentaries](#documentaries)
 - [Books](#books)
-  - [fiction](#fiction)
-  - [non-fiction](#non-fiction)
+  - [Fiction](#fiction)
+  - [Non-fiction](#non-fiction)
 - [Dictionary](#dictionary)
 - [Movies](#movies)
 - [TV Shows](#tv-shows)
@@ -34,7 +34,8 @@
   - [Technology](#technology)
 - [Politics](#politics)
   - [Tools](#tools)
-    - [fact-checking](#fact-checking)
+    - [Fact-checking](#fact-checking)
+    - [Encyclopedia](#encyclopedia)
 - [People](#people)
   - [Technology](#technology)
   - [Journalism](#journalism)
@@ -130,6 +131,8 @@
 [blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
 
 ## Politics
+
+### News
 
 ### Tools
 
