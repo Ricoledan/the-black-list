@@ -33,6 +33,8 @@
   - [Health](#health)
   - [Technology](#technology)
 - [Politics](#politics)
+  - [News](#news)
+    - [bias](#bias)
   - [Tools](#tools)
     - [Fact-checking](#fact-checking)
     - [Encyclopedia](#encyclopedia)
@@ -133,6 +135,12 @@
 ## Politics
 
 ### News
+
+#### Bias
+
+![Media Bias Chart](assets/special/Media-Bias-Chart-5.1-Licensed?raw=true 'Media Bias Chart')
+
+[Media Bias Chart](https://www.adfontesmedia.com/) - a Colorado-based media watchdog organization primarily known for its Media Bias Chart, which rates the news for bias and reliability using a rigorous methodology and a politically balanced team of analysts.
 
 ### Tools
 
