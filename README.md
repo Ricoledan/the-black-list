@@ -139,7 +139,7 @@
 #### Bias
 
 <div align="center">
-	<img width="160" height="100%" src="/assets/special/Media-Bias-Chart-5.1-Licensed.jpg" alt="Media Bias Chart">
+	<img width="160" height="100%" src="/assets/special/MediaBiasChartLicensed.jpg" alt="Media Bias Chart">
 	<br>
 </div>
 
