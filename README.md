@@ -138,7 +138,10 @@
 
 #### Bias
 
-![Media Bias Chart](/assets/special/Media-Bias-Chart-5.1-Licensed.jpg?raw=true 'Media Bias Chart')
+<div align="center">
+	<img width="160" height="100%" src="/assets/special/Media-Bias-Chart-5.1-Licensed.jpg" alt="Media Bias Chart">
+	<br>
+</div>
 
 [Media Bias Chart](https://www.adfontesmedia.com/) - a Colorado-based media watchdog organization primarily known for its Media Bias Chart, which rates the news for bias and reliability using a rigorous methodology and a politically balanced team of analysts.
 
