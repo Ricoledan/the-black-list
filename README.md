@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="160" height="100%" src="/assets/special/fist.png" alt="Black List">
+	<img width="160" height="100%" src="/assets/special/fist.png" alt="The Black List">
 	<br>
 	<p>
 		<p>
@@ -138,7 +138,7 @@
 
 #### Bias
 
-![Media Bias Chart](assets/special/Media-Bias-Chart-5.1-Licensed?raw=true 'Media Bias Chart')
+![Media Bias Chart](/assets/special/Media-Bias-Chart-5.1-Licensed?raw=true 'Media Bias Chart')
 
 [Media Bias Chart](https://www.adfontesmedia.com/) - a Colorado-based media watchdog organization primarily known for its Media Bias Chart, which rates the news for bias and reliability using a rigorous methodology and a politically balanced team of analysts.
 
