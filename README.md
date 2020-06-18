@@ -34,7 +34,7 @@
   - [Technology](#technology)
 - [Politics](#politics)
   - [News](#news)
-    - [bias](#bias)
+    - [Bias and Reliability](#bias)
   - [Tools](#tools)
     - [Fact-checking](#fact-checking)
     - [Encyclopedia](#encyclopedia)
