@@ -81,6 +81,8 @@
 
 - [Get Out](https://www.imdb.com/title/tt5052448/) - A 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
 
+- [Moonlight](https://www.imdb.com/title/tt4975722/) - A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.
+
 ## TV Shows
 
 - [insecure](https://www.hbo.com/insecure) - Follows the awkward experiences and racy tribulations of a modern-day African-American woman.
@@ -135,9 +137,15 @@
 
 [OpenSecrets](https://www.opensecrets.org/) - Allows users to track federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration. Users can also search by ZIP codes to learn how their neighbors are allocating their political contributions.
 
+[Politifact](https://www.politifact.com/) - A nonprofit prokect that reports on the accuracy of statements made by elected officials, candidates, their staffs, lobbyists, interest groups and others involved in U.S. politics.
+
 [FactCheck](https://www.factcheck.org/) - A nonprofit website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics".
 
 [Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
+
+#### Encyclopedia
+
+[Ballotpedia](https://ballotpedia.org/Main_Page) - The digital encyclopedia of American politics and elections. Our goal is to inform people about politics by providing accurate and objective information about politics at all levels of government. We are firmly committed to neutrality in our content.
 
 ## People
 
