@@ -1,4 +1,4 @@
-## Why
+## Introduction
 
 The idea of "The Black List" is to give the interested tourist a guide of the cultural and socio-economic experiences of black people in the United-States and aboard.
 
