@@ -28,7 +28,7 @@ url: 'https://ricoledan.github.io/the-black-list' # the base hostname & protocol
 github_username: ricoledan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
