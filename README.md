@@ -94,9 +94,9 @@
 
 - [ELEMENT: How Kendrick Lamar Collaborates](https://www.youtube.com/watch?v=kqGKMaCAao4) - An insightful look into Kendrick Lamar's music video ELEMENT from his fourth studio album "Damn".
 
-- [Jay Z "4:44" Album Review | Noisy Images](https://www.youtube.com/watch?v=2izTVrfdIGw) - A deep dive into Jay Z's 13th studio album, "4:44".
+- [Jay Z "4:44" Album Review Noisy Images](https://www.youtube.com/watch?v=2izTVrfdIGw) - A deep dive into Jay Z's 13th studio album, "4:44".
 
-- [Kanye West: The Making of "The Life of Pablo" | Part 1](https://www.youtube.com/watch?v=2izTVrfdIGw) - Follow along as we look into the creation of "The Life of Pablo." Kanye's 7th solo album is an ambitious look into the duality of the artist behind it.
+- [Kanye West: The Making of "The Life of Pablo" Part 1](https://www.youtube.com/watch?v=2izTVrfdIGw) - Follow along as we look into the creation of "The Life of Pablo." Kanye's 7th solo album is an ambitious look into the duality of the artist behind it.
 
 - [Kanye West: The Making of My Beautiful Dark Twisted Fantasy](https://www.youtube.com/watch?v=6t0nipO6Rcw) - The journey of Kanye West as he pursued a journey of self-exile. In his time away, he gathered the inspiration to create his magnum opus. Holed up in Hawaii with his team, they set out to make the greatest albums of their time.
 
