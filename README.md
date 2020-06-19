@@ -9,9 +9,9 @@
 </div>
 <br>
 <p align="center">
-	<a href="/why.md">Why?</a>&nbsp;&nbsp;&nbsp;
-	<a href="/contribution-guide.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/why.md">Why?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/contribution-guide.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -139,7 +139,7 @@
 #### Bias and Reliability
 
 <div align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/assets/special/MediaBiasChartLicensed.jpg" alt="Media Bias Chart">
+	<img width="100%" src="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/assets/special/MediaBiasChartLicensed6.jpg" alt="Media Bias Chart">
 	<br>
 </div>
 
