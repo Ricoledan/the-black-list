@@ -23,7 +23,7 @@ email: ricoledan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A curated list about all kinds of Black People topics and resources for all people interested in the black experience.
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ricoledan.github.io/the-black-list/' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: ricoledan
 
