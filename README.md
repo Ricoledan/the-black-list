@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="160" height="100%" src="/assets/special/fist.png" alt="The Black List">
+	<img width="160" height="100%" src="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/assets/special/fist.png" alt="The Black List">
 	<br>
 	<p>
 		<p>
@@ -139,7 +139,7 @@
 #### Bias and Reliability
 
 <div align="center">
-	<img width="100%" src="/assets/special/MediaBiasChartLicensed.jpg" alt="Media Bias Chart">
+	<img width="100%" src="https://raw.githubusercontent.com/Ricoledan/the-black-list/master/assets/special/MediaBiasChartLicensed.jpg" alt="Media Bias Chart">
 	<br>
 </div>
 
