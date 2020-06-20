@@ -19,7 +19,7 @@
 
 - [Articles](#articles)
 - [Documentaries](#documentaries)
-- [Comedy](#comedy)
+- [Commentary](#commentary)
 - [Books](#books)
   - [Fiction](#fiction)
   - [Non-fiction](#non-fiction)
@@ -58,7 +58,7 @@
 
 - [I Am Not Your Negro](http://www.iamnotyournegrofilm.com/) - Explores the history of racism in the United States through Baldwin's reminiscences of civil rights leaders Medgar Evers, Malcolm X, and Martin Luther King Jr., as well as his personal observations of American history.
 
-## Comedy
+## Commentary
 
 - [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4) - This is not a Special but rather an impromptu purging of feelings and thoughts delivered by Dave during his show in Ohio on June 6, 2020.
 
