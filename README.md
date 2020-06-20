@@ -37,8 +37,8 @@
     - [Bias and Reliability](#bias)
   - [Tools](#tools)
     - [Fact-checking](#fact-checking)
-    - [Policing](#policing)
     - [Encyclopedia](#encyclopedia)
+    - [Policing](#policing)
 - [People](#people)
   - [Technology](#technology)
   - [Journalism](#journalism)
@@ -90,6 +90,8 @@
 - [Moonlight](https://www.imdb.com/title/tt4975722/) - A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.
 
 ## TV Shows
+
+- [Atlanta](fxnetworks.com/shows/atlanta) - Based in Atlanta, Earn and his cousin Alfred try to make their way in the world through the rap scene. Along the way they come face to face with social and economic issues touching on race, relationships, poverty, status, and parenthood.
 
 - [insecure](https://www.hbo.com/insecure) - Follows the awkward experiences and racy tribulations of a modern-day African-American woman.
 
@@ -160,13 +162,13 @@
 
 [Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
 
-#### Policing
-
-[Mapping Police Violence](https://mappingpoliceviolence.org/) - A research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
-
 #### Encyclopedia
 
 [Ballotpedia](https://ballotpedia.org/Main_Page) - The digital encyclopedia of American politics and elections. Our goal is to inform people about politics by providing accurate and objective information about politics at all levels of government. We are firmly committed to neutrality in our content.
+
+#### Policing
+
+[Mapping Police Violence](https://mappingpoliceviolence.org/) - A research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
 
 ## People
 
