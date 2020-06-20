@@ -44,6 +44,8 @@
 
 ## Articles
 
+- [Police killings can be captured in data. The terror police create cannot. by Sean Collins](https://www.vox.com/21292688/police-killings-data) - The problem with policing is about more than violence. It’s about living a black life in fear.
+
 - [The Case for Reparations by Ta-Nehisi Coates](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) - Ta-Nehisi Coates traces how slavery, segregation, and discriminatory racial policies underpin ongoing and systemic economic and racial disparities.
 
 - [The First White President by Ta-Nehisi Coates](https://www.theatlantic.com/magazine/archive/2017/10/the-first-white-president-ta-nehisi-coates/537909/) - Explores how Trump, during his presidency, employed the notion of whiteness and white supremacy to pick apart the legacy of the nation's first Black president, Barack Obama.
@@ -156,6 +158,10 @@
 [FactCheck](https://www.factcheck.org/) - A nonprofit website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics".
 
 [Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
+
+#### Policing
+
+[Mapping Police Violence](https://mappingpoliceviolence.org/) - A research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
 
 #### Encyclopedia
 
