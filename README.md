@@ -106,7 +106,7 @@
 
 - [Jay Z "4:44" Album Review Noisy Images](https://www.youtube.com/watch?v=2izTVrfdIGw) - A deep dive into Jay Z's 13th studio album, "4:44".
 
-- [Drake The Everyman of Rap](https://www.youtube.com/watch?v=QbCk1DB-0Gg) -
+- [Drake The Everyman of Rap](https://www.youtube.com/watch?v=QbCk1DB-0Gg)
 
 - [Kanye West: The Making of "The Life of Pablo" Part 1](https://www.youtube.com/watch?v=2izTVrfdIGw) - Follow along as we look into the creation of "The Life of Pablo." Kanye's 7th solo album is an ambitious look into the duality of the artist behind it.
 
