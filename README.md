@@ -19,6 +19,7 @@
 
 - [Articles](#articles)
 - [Documentaries](#documentaries)
+- [Comedy](#comedy)
 - [Books](#books)
   - [Fiction](#fiction)
   - [Non-fiction](#non-fiction)
@@ -56,6 +57,10 @@
 - [13th](https://www.netflix.com/title/80091741) - Explores the intersection of race, justice, and mass incarceration in the United States.
 
 - [I Am Not Your Negro](http://www.iamnotyournegrofilm.com/) - Explores the history of racism in the United States through Baldwin's reminiscences of civil rights leaders Medgar Evers, Malcolm X, and Martin Luther King Jr., as well as his personal observations of American history.
+
+## Comedy
+
+- [8:46 - Dave Chappelle](https://www.youtube.com/watch?v=3tR6mKcBbT4) - This is not a Special but rather an impromptu purging of feelings and thoughts delivered by Dave during his show in Ohio on June 6, 2020.
 
 ## Books
 
@@ -130,6 +135,12 @@
 [Dream Defenders](https://dreamdefenders.org/) - An American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
 
 [NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
+
+[The Bail Project](https://bailproject.org/) - A non-profit organization designed to combat mass incarceration by disrupting the money bail system ‒ one person at a time.
+
+### Community
+
+[The Transgender District](https://www.transgenderdistrictsf.com/) - mission of the Transgender District is to create an urban environment that fosters the rich history, culture, legacy, and empowerment of transgender people and its deep roots in the southeastern Tenderloin neighborhood. The transgender district aims to stabilize and economically empower the transgender community through ownership of homes, businesses, historic and cultural sites, and safe community spaces.
 
 ### Health
 
