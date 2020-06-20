@@ -91,7 +91,7 @@
 
 ## TV Shows
 
-- [Atlanta](fxnetworks.com/shows/atlanta) - Based in Atlanta, Earn and his cousin Alfred try to make their way in the world through the rap scene. Along the way they come face to face with social and economic issues touching on race, relationships, poverty, status, and parenthood.
+- [Atlanta](https://www.fxnetworks.com/shows/atlanta) - Based in Atlanta, Earn and his cousin Alfred try to make their way in the world through the rap scene. Along the way they come face to face with social and economic issues touching on race, relationships, poverty, status, and parenthood.
 
 - [insecure](https://www.hbo.com/insecure) - Follows the awkward experiences and racy tribulations of a modern-day African-American woman.
 
