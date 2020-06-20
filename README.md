@@ -37,6 +37,7 @@
     - [Bias and Reliability](#bias)
   - [Tools](#tools)
     - [Fact-checking](#fact-checking)
+    - [Policing](#policing)
     - [Encyclopedia](#encyclopedia)
 - [People](#people)
   - [Technology](#technology)
