@@ -9,9 +9,9 @@
 </div>
 <br>
 <p align="center">
-	<a href="/why.md">Why?</a>&nbsp;&nbsp;&nbsp;
-	<a href="/contribution-guide.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://ricoledan.github.io/the-black-list/why.html">Why?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://ricoledan.github.io/the-black-list/contribution-guide.html">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://ricoledan.github.io/the-black-list/create-list.html">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -106,6 +106,8 @@
 
 - [Jay Z "4:44" Album Review Noisy Images](https://www.youtube.com/watch?v=2izTVrfdIGw) - A deep dive into Jay Z's 13th studio album, "4:44".
 
+- [Drake The Everyman of Rap](https://www.youtube.com/watch?v=QbCk1DB-0Gg) -
+
 - [Kanye West: The Making of "The Life of Pablo" Part 1](https://www.youtube.com/watch?v=2izTVrfdIGw) - Follow along as we look into the creation of "The Life of Pablo." Kanye's 7th solo album is an ambitious look into the duality of the artist behind it.
 
 - [Kanye West: The Making of My Beautiful Dark Twisted Fantasy](https://www.youtube.com/watch?v=6t0nipO6Rcw) - The journey of Kanye West as he pursued a journey of self-exile. In his time away, he gathered the inspiration to create his magnum opus. Holed up in Hawaii with his team, they set out to make the greatest albums of their time.
@@ -130,23 +132,23 @@
 
 ### Social Justice
 
-[Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. by combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
+- [Black Lives Matter](https://blacklivesmatter.com/) - Black Lives Matter Foundation, Inc is a global organization in the US, UK, and Canada, whose mission is to eradicate white supremacy and build local power to intervene in violence inflicted on Black communities by the state and vigilantes. by combating and countering acts of violence, creating space for Black imagination and innovation, and centering Black joy, we are winning immediate improvements in our lives.
 
-[Dream Defenders](https://dreamdefenders.org/) - An American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
+- [Dream Defenders](https://dreamdefenders.org/) - An American group aimed at ending police and prisons (especially private prisons) as part of their policy and is geared towards people of color who share the goal of multi-racial organizing
 
-[NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
+- [NAACP](https://www.naacp.org/) - The mission of the National Association for the Advancement of Colored People (NAACP) is to secure the political, educational, social, and economic equality of rights in order to eliminate race-based discrimination and ensure the health and well-being of all persons.
 
-[The Bail Project](https://bailproject.org/) - A non-profit organization designed to combat mass incarceration by disrupting the money bail system ‒ one person at a time.
+- [The Bail Project](https://bailproject.org/) - A non-profit organization designed to combat mass incarceration by disrupting the money bail system ‒ one person at a time.
 
 ### Community
 
-[The Transgender District](https://www.transgenderdistrictsf.com/) - mission of the Transgender District is to create an urban environment that fosters the rich history, culture, legacy, and empowerment of transgender people and its deep roots in the southeastern Tenderloin neighborhood. The transgender district aims to stabilize and economically empower the transgender community through ownership of homes, businesses, historic and cultural sites, and safe community spaces.
+- [The Transgender District](https://www.transgenderdistrictsf.com/) - mission of the Transgender District is to create an urban environment that fosters the rich history, culture, legacy, and empowerment of transgender people and its deep roots in the southeastern Tenderloin neighborhood. The transgender district aims to stabilize and economically empower the transgender community through ownership of homes, businesses, historic and cultural sites, and safe community spaces.
 
 ### Health
 
 ### Technology
 
-[blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
+- [blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
 
 ## Politics
 
@@ -159,34 +161,34 @@
 	<br>
 </div>
 
-[Media Bias Chart](https://www.adfontesmedia.com/) - a Colorado-based media watchdog organization primarily known for its Media Bias Chart, which rates the news for bias and reliability using a rigorous methodology and a politically balanced team of analysts.
+- [Media Bias Chart](https://www.adfontesmedia.com/) - a Colorado-based media watchdog organization primarily known for its Media Bias Chart, which rates the news for bias and reliability using a rigorous methodology and a politically balanced team of analysts.
 
 ### Tools
 
 #### Fact Checking
 
-[OpenSecrets](https://www.opensecrets.org/) - Allows users to track federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration. Users can also search by ZIP codes to learn how their neighbors are allocating their political contributions.
+- [OpenSecrets](https://www.opensecrets.org/) - Allows users to track federal campaign contributions and lobbying by lobbying firms, individual lobbyists, industry, federal agency, and bills. Other resources include the personal financial disclosures of all members of the U.S. Congress, the president, and top members of the administration. Users can also search by ZIP codes to learn how their neighbors are allocating their political contributions.
 
-[Politifact](https://www.politifact.com/) - A nonprofit prokect that reports on the accuracy of statements made by elected officials, candidates, their staffs, lobbyists, interest groups and others involved in U.S. politics.
+- [Politifact](https://www.politifact.com/) - A nonprofit prokect that reports on the accuracy of statements made by elected officials, candidates, their staffs, lobbyists, interest groups and others involved in U.S. politics.
 
-[FactCheck](https://www.factcheck.org/) - A nonprofit website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics".
+- [FactCheck](https://www.factcheck.org/) - A nonprofit website that describes itself as a "consumer advocate for voters that aims to reduce the level of deception and confusion in U.S. politics".
 
-[Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
+- [Snopes](https://www.snopes.com/) - When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
 
 #### Encyclopedia
 
-[Ballotpedia](https://ballotpedia.org/Main_Page) - The digital encyclopedia of American politics and elections. Our goal is to inform people about politics by providing accurate and objective information about politics at all levels of government. We are firmly committed to neutrality in our content.
+- [Ballotpedia](https://ballotpedia.org/Main_Page) - The digital encyclopedia of American politics and elections. Our goal is to inform people about politics by providing accurate and objective information about politics at all levels of government. We are firmly committed to neutrality in our content.
 
 #### Policing
 
-[Mapping Police Violence](https://mappingpoliceviolence.org/) - A research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
+- [Mapping Police Violence](https://mappingpoliceviolence.org/) - A research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
 
 ## People
 
 ### Technology
 
-[Baratunde Thurston](https://www.baratunde.com/#baratunde) - American writer, comedian, and commentator.
+- [Baratunde Thurston](https://www.baratunde.com/#baratunde) - American writer, comedian, and commentator.
 
 ### Journalism
 
-[Jelani Cobb](https://twitter.com/jelani9?s=20) - American writer, author and educator.
+- [Jelani Cobb](https://twitter.com/jelani9?s=20) - American writer, author and educator.
