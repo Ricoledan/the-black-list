@@ -154,6 +154,8 @@
 
 ### Health
 
+- [Black Church Food Security Network](https://www.blackchurchfoodsecurity.net/) - Utilizes an asset-based approach in organizing and linking the vast resources of historically African American congregations in rural and urban communities to advancing food and land sovereignty.
+
 ### Technology
 
 - [blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
