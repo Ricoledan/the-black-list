@@ -56,6 +56,8 @@
 
 - [13th](https://www.netflix.com/title/80091741) - Explores the intersection of race, justice, and mass incarceration in the United States.
 
+- [The Black Power Mixtape 1967-1975](https://www.pbs.org/independentlens/films/black-power-mixtape-1967-1975/) - Footage shot by a group of Swedish journalists documenting the Black Power Movement in the United States is edited together by a contemporary Swedish filmmaker.
+
 - [I Am Not Your Negro](http://www.iamnotyournegrofilm.com/) - Explores the history of racism in the United States through Baldwin's reminiscences of civil rights leaders Medgar Evers, Malcolm X, and Martin Luther King Jr., as well as his personal observations of American history.
 
 ## Commentary
@@ -90,7 +92,11 @@
 
 ## Movies
 
+- [If Beale Street Could Talk](imdb.com/title/tt7125860/) - A young woman embraces her pregnancy while she and her family set out to prove her childhood friend and lover innocent of a crime he didn't commit.
+
 - [Get Out](https://www.imdb.com/title/tt5052448/) - A 2017 American horror film written and directed by Jordan Peele. Get Out follows Chris Washington, a young African-American man who uncovers a disturbing secret when he meets the family of his Caucasian girlfriend, Rose Armitage.
+
+- [Us](https://www.imdb.com/title/tt6857112/) - A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.
 
 - [Moonlight](https://www.imdb.com/title/tt4975722/) - A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.
 
