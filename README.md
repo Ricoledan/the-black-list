@@ -33,6 +33,8 @@
   - [Social Justice](#social-justice)
   - [Health](#health)
   - [Technology](#technology)
+- [Technology](#technology)
+  - [Design](#design)
 - [Politics](#politics)
   - [News](#news)
     - [Bias and Reliability](#bias)
@@ -159,6 +161,12 @@
 ### Technology
 
 - [blackgirlscode](https://www.blackgirlscode.com/) - A not-for-profit organization that focuses on providing technology education for African-American girls.
+
+## Technology
+
+### Design
+
+- [blackillustrations.com](https://www.blackillustrations.com/) - A series of FREE digital designs of black people for your next online project.
 
 ## Politics
 
